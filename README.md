@@ -1,6 +1,6 @@
 # basemap
 ## Map1: Roadmap inspired by feminite geography 
-URl:
+URL:http://cdn.rawgit.com/winkyt/basemap/bdea111c/index.html
 
 
 ## Map2: Travel with green
